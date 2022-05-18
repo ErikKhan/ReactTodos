@@ -11,3 +11,7 @@ hr{
     border: 2px solid white;
     border-radius: 5px;  
 }
+h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
